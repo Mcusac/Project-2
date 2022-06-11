@@ -33,8 +33,3 @@ State TEXT
 
 SELECT * FROM Provider_Name_Loc;
 ------------------------------------------------
--- Joins tables
--- SELECT customer_name.id, customer_name.first_name, customer_name.last_name, customer_location.address, customer_location.us_state
--- FROM customer_name
--- JOIN customer_location
--- ON customer_name.id = customer_location.id;
