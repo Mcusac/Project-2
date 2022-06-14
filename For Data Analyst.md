@@ -1,3 +1,5 @@
 The presented notebook ends with a joined dataframe containing different information regarding healthcare providers related to opiate abuse. There can be a few different analyses done with this dataframe. You can look into deaths by state, provider npi, etc. There may be some instances where providers did not provide their name or location of primary practice. This can be some more data to clean if those are specific categories of interest for the analyst. Graphs could be done to visualy compare differences in states/cities that are available or between different kinds of providers. Statistical analysis on these same comparisons can be done in order to get certain information like if there is a statistically significant relationship between, for example, type of providor and death by state.
 
+A second final dataset was added without any rows that contained values, in case that was desired.
+
 Also, there are attached a couple more datasets regarding names of opioids and secondary practice locations for providors in case these were other areas of interest for data analysis.
